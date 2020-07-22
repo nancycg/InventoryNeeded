@@ -1,0 +1,16 @@
+Part Number: QA310
+Current Balance: 48
+Amount Needed: 2
+
+Part Number: CM145
+Current Balance: 158
+Amount Needed: 42
+
+Part Number: MS514
+Current Balance: 14
+Amount Needed: 11
+
+Part Number: EN212
+Current Balance: 13
+Amount Needed: 147
+
